@@ -9,7 +9,7 @@
 📈 Lifelong Learner | Always exploring & upskilling  
 🔍 Currently deep-diving into: **Full Stack Development**, **AI/ML**, and **Quantum Tech**
 
-<img align="right" width="270" height="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="270" height="140" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🌟 Strong foundation in Python, ReactJS, and intelligent software systems  
 - 🤝 Love collaborating on real-world, impactful projects  
@@ -60,6 +60,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sathiyasri27&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ---
+
 
 
 
