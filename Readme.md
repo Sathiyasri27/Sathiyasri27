@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+there%2C+I'm+Sathiya+%F0%9F%92%8C;Developer+%7C+Quantum+Explorer" alt="Typing SVG" />
 </h1>
-<img align="right" width="300" height="140" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
 🎓 Final Year B.Tech - Computer Science & Engineering  
@@ -62,6 +62,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sathiyasri27&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ---
+
 
 
 
