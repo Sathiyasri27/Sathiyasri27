@@ -1,7 +1,7 @@
 # ✨ Hey there, I'm Sathiya 💙
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+Sweet+Souls!+I'm+Sathiya+%F0%9F%A7%9A;Aspiring+Developer+%7C+Tech+Dreamer+%7C+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+I'm+Sathiya+%F0%9F%A7%9A" alt="Typing SVG" />
 </h1>
 
 🎀 3rd Year B.Tech CSE Student | 👩‍💻 Passionate Coder | 💡 AI, Web & Blockchain Explorer  
@@ -72,3 +72,4 @@
 ---
 
 🫶🏻 _Thanks for visiting! Drop a star 🌟 or a smiley 😊 if you liked my vibe!_
+
