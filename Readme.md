@@ -3,13 +3,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+there%2C+I'm+Sathiya+%F0%9F%92%8C;Developer+%7C+Quantum+Explorer" alt="Typing SVG" />
 </h1>
-
+<img align="right" width="300" height="140" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 🎓 Final Year B.Tech - Computer Science & Engineering  
 👩‍💻 Passionate Developer | Python, ReactJS, AI/ML, Quantum Enthusiast  
 📈 Lifelong Learner | Always exploring & upskilling  
 🔍 Currently deep-diving into: **Full Stack Development**, **AI/ML**, and **Quantum Tech**
 
-<img align="right" width="300" height="140" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
 
 - 🌟 Strong foundation in Python, ReactJS, and intelligent software systems  
 - 🤝 Love collaborating on real-world, impactful projects  
@@ -60,6 +60,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sathiyasri27&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ---
+
 
 
 
